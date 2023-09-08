@@ -80,7 +80,7 @@ or in the style.css of a Child Theme.
   transform: unset !important;
 }
 .home-banner_content {
-  padding: 7%;
+  padding: 50%;
 }
 .more-info_wrapper {
   max-width: 500px;
